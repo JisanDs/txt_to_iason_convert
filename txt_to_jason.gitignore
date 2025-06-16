@@ -1,0 +1,17 @@
+---
+
+## ✅ `.gitignore`
+
+```gitignore
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore JSON output (optional)
+users.json
+
+# Ignore data folder (optional)
+data/
+
+# Ignore system files
+.DS_Store
